@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5eb59646-73a2-4353-bf09-4cb8ceaa32aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Energy-Data-and-Model-Platform.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Energy-Data-and-Model-Platform.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Energy Data and Model Platform/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/Energy Data and Model Platform/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Energy Data and Model Platform/from_excel_to_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/Energy Data and Model Platform/from_excel_to_json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Energy Data and Model Platform/model.json" beforeDir="false" afterPath="$PROJECT_DIR$/Energy Data and Model Platform/model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples/Example_for_forecast_HSR_revise.ipynb" beforeDir="false" />
-    </list>
+    <list default="true" id="5eb59646-73a2-4353-bf09-4cb8ceaa32aa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,18 +17,21 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HOnXfrLIgE0pWbLZMCqRrrUZub" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Examples" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Data" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -45,6 +40,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BaiduNetdiskDownload\HSR\GITHUB\Energy-Data-and-Model-Platform\Data" />
       <recent name="D:\BaiduNetdiskDownload\HSR\GITHUB\Energy-Data-and-Model-Platform\Examples" />
     </key>
   </component>
@@ -107,7 +103,7 @@
       <workItem from="1668165047794" duration="4000" />
       <workItem from="1668411235604" duration="1207000" />
       <workItem from="1668497879759" duration="1206000" />
-      <workItem from="1677312091382" duration="1974000" />
+      <workItem from="1677312091382" duration="2479000" />
     </task>
     <servers />
   </component>
@@ -124,5 +120,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
